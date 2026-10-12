@@ -1,0 +1,10 @@
+{
+  "name": "Marine Nav GPS",
+  "short_name": "Marine Nav",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#061321",
+  "theme_color": "#061321",
+  "orientation": "portrait",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
